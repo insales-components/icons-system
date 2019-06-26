@@ -22,6 +22,45 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-trash:before {
+  content: "\e900";
+}
+.icon-envelope:before {
+  content: "\e90c";
+}
+.icon-times:before {
+  content: "\e936";
+}
+.icon-check:before {
+  content: "\e95d";
+}
+.icon-minus:before {
+  content: "\e95e";
+}
+.icon-sort-amount-asc:before {
+  content: "\e95f";
+}
+.icon-sort-amount-desc:before {
+  content: "\e960";
+}
+.icon-arrow-up:before {
+  content: "\e961";
+}
+.icon-plus:before {
+  content: "\e962";
+}
+.icon-arrow-right:before {
+  content: "\e963";
+}
+.icon-arrow-down:before {
+  content: "\e964";
+}
+.icon-arrow-left:before {
+  content: "\e965";
+}
+.icon-folder-open:before {
+  content: "\e928";
+}
 .icon-compare:before {
   content: "\e91c";
 }
@@ -63,12 +102,6 @@
 }
 .icon-tasks:before {
   content: "\e920";
-}
-.icon-sort-amount-asc:before {
-  content: "\e921";
-}
-.icon-sort-amount-desc:before {
-  content: "\e922";
 }
 .icon-sort:before {
   content: "\e923";
@@ -123,9 +156,6 @@
 }
 .icon-google:before {
   content: "\e935";
-}
-.icon-folder-open:before {
-  content: "\e936";
 }
 .icon-filter:before {
   content: "\e937";
@@ -202,14 +232,8 @@
 .icon-exclamation:before {
   content: "\e953";
 }
-.icon-check:before {
-  content: "\e954";
-}
 .icon-info:before {
   content: "\e955";
-}
-.icon-envelope:before {
-  content: "\e956";
 }
 .icon-plus-circle:before {
   content: "\e918";
@@ -250,15 +274,6 @@
 .icon-eye-slash:before {
   content: "\e90b";
 }
-.icon-times:before {
-  content: "\e90c";
-}
-.icon-arrow-up:before {
-  content: "\e90d";
-}
-.icon-arrow-down:before {
-  content: "\e90e";
-}
 .icon-angle-down:before {
   content: "\e90f";
 }
@@ -270,21 +285,6 @@
 }
 .icon-angle-right:before {
   content: "\e912";
-}
-.icon-arrow-left:before {
-  content: "\e913";
-}
-.icon-arrow-right:before {
-  content: "\e914";
-}
-.icon-trash:before {
-  content: "\e915";
-}
-.icon-minus:before {
-  content: "\e916";
-}
-.icon-plus:before {
-  content: "\e900";
 }
 .icon-clock:before {
   content: "\e91b";
