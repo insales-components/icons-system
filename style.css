@@ -22,6 +22,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-phone:before {
+  content: "\e90d";
+}
 .icon-trash:before {
   content: "\e900";
 }
@@ -63,9 +66,6 @@
 }
 .icon-compare:before {
   content: "\e91c";
-}
-.icon-phone:before {
-  content: "\e949";
 }
 .icon-bars:before {
   content: "\e938";
